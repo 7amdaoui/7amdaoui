@@ -40,17 +40,3 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Stripe%20API-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
-
----
-
----
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-bice-five.vercel.app/api?username=7amdaoui&show_icons=true&theme=radical&hide_border=true" alt="Amine's GitHub stats" />
-  <img src="https://github-readme-stats-bice-five.vercel.app/api/top-langs/?username=7amdaoui&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
