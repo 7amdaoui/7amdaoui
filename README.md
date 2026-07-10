@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Amine Hamdaoui 👋
 
-<!--
-**7amdaoui/7amdaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Software Engineer | Backend & Full Stack Developer**
 
-Here are some ideas to get you started:
+I am an Information Systems Engineering graduate specialized in building scalable, production-ready backend systems and microservices. I recently built a complete SaaS Subscription & Billing engine from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Backend:** NestJS, Spring Boot, Django REST, ASP.NET Core
+- **Frontend:** React.js, TypeScript, TailwindCSS
+- **Database & DevOps:** PostgreSQL, Redis, Docker, CI/CD, Stripe API
+
+### 📈 Currently
+- Actively looking for a **Junior Software Engineer** role (Backend / Full Stack).
+- Based in Rabat/Casablanca, open to remote opportunities.
+
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/aminehamdaoui) | aminehamdaoui777@gmail.com
