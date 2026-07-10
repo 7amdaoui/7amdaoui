@@ -43,9 +43,12 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-bice-five.vercel.app/api?username=7amdaoui&show_icons=true&theme=radical&hide_border=true" alt="Amine's GitHub stats" />
   <img src="https://github-readme-stats-bice-five.vercel.app/api/top-langs/?username=7amdaoui&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
