@@ -1,42 +1,78 @@
-<h1 align="center">Hi there, I'm Amine Hamdaoui 👋</h1>
-<h3 align="center">Junior Software Engineer | Backend & Full Stack Developer</h3>
+<div align="center">
+
+# Hi there, I'm Amine Hamdaoui 👋
+### Junior Software Engineer | Backend & Full Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminehamdaoui)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminehamdaoui777@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Status-Available%20Immediately-2ea44f?style=for-the-badge)]()
 
 <p align="center">
-  I am an Information Systems Engineering graduate specialized in building scalable, production-ready backend systems and microservices. I recently built a complete SaaS Subscription & Billing engine from scratch.
+  State Software Engineer graduate specialized in building scalable, production-grade backend systems, RESTful APIs, and microservices architectures. Recently architected and shipped a complete subscription & billing microservice to production.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aminehamdaoui">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:aminehamdaoui777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack & Tooling
 
-**Backend & Microservices**
-<p>
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/asp.net-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>Data & Messaging</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe%20API-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>DevOps & Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
+---
 
-**Database, DevOps & APIs**
-<p>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Stripe%20API-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-</p>
+### 🚀 Featured Engineering Projects
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| **[SaaS Billing Microservice](https://github.com/7amdaoui/saas-billing-microservice-architecture)** | NestJS, PostgreSQL, Redis, Stripe, Docker | Production subscription lifecycle engine, automated dunning recovery, and admin analytics. |
+| **[Car Rental Connect](https://github.com/7amdaoui/CarRentalConnect)** | Spring Boot, React, TypeScript, JWT | Enterprise vehicle reservation platform, role-based access control, and automated PDF invoicing. |
+| **[PharmaManager](https://github.com/7amdaoui/pharma-manager)** | Django REST, PostgreSQL, React, Swagger | Pharmacy inventory tracking, low-stock threshold triggers, and complete OpenAPI documentation. |
+| **[Student Management](https://github.com/7amdaoui/StudentManagement)** | ASP.NET Core 8.0, EF Core, SQLite | Academic records administration portal featuring role security and full CRUD operations. |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7amdaoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amine's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amdaoui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
